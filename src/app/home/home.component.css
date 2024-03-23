@@ -1,0 +1,17 @@
+.item{
+  display: inline-block;
+  left: 250px;
+  top: 250px;
+}
+
+.categories{
+  margin-left: 15px;
+}
+
+.category{
+}
+
+.container{
+  display: flex;
+  align-items: center;
+}
